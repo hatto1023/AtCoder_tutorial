@@ -1,5 +1,6 @@
 n=int(input())
 a=[int(x) for x in input().split()]
+
 Alice=0
 Bob=0
 for i in range(n):
