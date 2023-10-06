@@ -6,7 +6,6 @@ for i in range(N):
   TX.append(tx)
   tx=[]
 
-TX=np.array(TX)
 print(TX[0,N-1])
 
 # 解答例
